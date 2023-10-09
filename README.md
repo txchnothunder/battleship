@@ -20,3 +20,8 @@ Follow the on-screen instructions to place your ships and make guesses to sink t
 - The coordinates that should be entered should be in the format of A1, A2, etc.
 - The player's and enemy's board will be randomly generated
 - A winner will be determined when all of the enemy's ships have been hit and sunk
+
+## Contributors
+
+- Ethan Wong
+- Angela Gerontides
